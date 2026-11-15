@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "app_id": "778400",
+  "version": "0.1.0-psp-donor",
+  "files": [
+    {
+      "path": "recipe.json",
+      "sha256": "1474ebac65b2dfd4548948cd9e4b8cf7930024b84163d24515264b5e2d44264b",
+      "source_sha256": []
+    }
+  ],
+  "supported_sources": [
+    {
+      "label": "verified-local-japanese",
+      "files": {
+        "HystericBirthday.exe": "ffbda51c449331f9c1fe9ff3f70c75144033ee9137fee91a10bf9c861f51fe8f",
+        "scene.bcx": "aa67005bf8eed1e130995db5bca7b283785e4c6a22f2481f209231365a5c10bf",
+        "scene_jpn.bcx": "d4e11c1cd4863e79db9bb46d5e06c1f234aea12c767ab778348646b9389f381d",
+        "font.bcx": "115c912ab12f522af67e651b70412366baa01549c172612dbc4362c59e697525"
+      }
+    }
+  ]
+}

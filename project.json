@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "patch_id": "corpse-party-sachiko-korean-installer",
+  "app_id": "778400",
+  "title": "Sweet Sachiko's Hysteric Birthday Bash / 2U",
+  "mode": "psp-donor",
+  "executable": "HystericBirthday.exe",
+  "key_file": "HystericBirthday.exe",
+  "expected_visibility": "public",
+  "release_ready": false
+}
