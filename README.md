@@ -10,11 +10,14 @@
 - [Linux .run 설치기](https://github.com/UESENPAI/corpse-party-sachiko-korean-installer/releases/download/v0.1.0-psp-donor/corpse-party-sachiko-psp-donor-0.1.0-linux.run)
 - [SHA-256 체크섬](https://github.com/UESENPAI/corpse-party-sachiko-korean-installer/releases/download/v0.1.0-psp-donor/SHA256SUMS.txt)
 
-## 게임과 원본 한패
+## 원본 한글패치와의 관계
+
+PSP판 한국어 번역과 원본 패치는 **한방콤보** 및 원 배포글에 기재된 참여자분들이 제작했습니다. 이 프로젝트는 해당 번역을 Steam판에 이식하는 설치기를 개발했습니다. 원본 PSP 한글패치는 아래 배포글에서 직접 받아 사용합니다.
+
+게임과 원본 PSP 한글패치(한국어 번역 포함)의 권리는 각 권리자에게 있습니다. 이 저장소의 MIT 라이선스는 설치기 코드에 적용됩니다.
 
 - [공식 Steam 상점 페이지](https://store.steampowered.com/app/778400/)
 - [원본 PSP 한패 다운로드 안내 · 네이버 카페 배포글](https://cafe.naver.com/hansicgu/12823)
-- **원본 PSP 한패 제작**은 **한방콤보** 및 원 배포글에 기재된 참여자분들이 맡았습니다.
 
 ## 적용 범위
 
